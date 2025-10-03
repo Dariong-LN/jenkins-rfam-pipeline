@@ -1,1 +1,1 @@
-select * from fr.fram_acc limit 1;
+select * from fr.fram_acc limit 2;
